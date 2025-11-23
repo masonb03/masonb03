@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 😴
 
-<!--
-**masonb03/masonb03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mason, someone working towards a career in frontend development.
 
-Here are some ideas to get you started:
+Currently, I'm working on some fun projects I was able to think of to keep my skills sharp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I graduated from a 6 month bootcamp about full stack development from Jan, 2025 - July, 2025 with 100%.
+
+I've worked on multiple projects thanks to the bootcamp, but recenetly I have worked on more personal projects, some just figuring out how things work and others more fun and personal.
+
+Whenever I have an idea and I figure out what exactly I need to do, I get those things done in a timely manner and adapt when changes occur.
+
+_____________________________________________________________________________________________________________________________________________________
+
+Facts About Me
+- Coffeeholic
+- Big fan of Godzilla
+- Hobbies: Gym, Drawing, 3d animations, game, code, and sleep.
+
