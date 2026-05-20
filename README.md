@@ -8,7 +8,7 @@ I've been learning and working on frontend projects for about a year now and I e
 
 * 🌍  I'm based in Michigan
 * ✉️  You can contact me at [bevinsjm@gmail.com](mailto:bevinsjm@gmail.com)
-* 🚀  I'm currently working on [on a 3rd version of my dinosaur encyclopedia.](http://github.com/masonb03/Dinotopia_V3)
+* 🚀  I'm currently working on [a 3rd version of my dinosaur encyclopedia.](http://github.com/masonb03/Dinotopia_V3)
 * 🧠  I'm currently learning how to use AI more effectively
 * 💬  Ask me about I enjoy lots of coffee
 
