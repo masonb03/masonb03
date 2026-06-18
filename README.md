@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I've been learning and working on frontend projects for about a year now and I enjoy it very much when I'm able to get things going and create it in my vison. Once I et started and enjoy the project, I lose track of time cause I'm just working hard trying to make it as awesome as I can. I enjoy working by myself but I have no problem when it comes to working with a team and communicating what needs to get done.
+I've been learning and working on frontend projects for about a year now and I enjoy it very much when I'm able to get things going and create it in my image. Once I get started and enjoy the project, I lose track of time cause I'm just working hard trying to make it as awesome as I can. I enjoy working by myself but I have no problem when it comes to working with a team and communicating what needs to get done.
 
 * 🌍  I'm based in Michigan
 * ✉️  You can contact me at [bevinsjm@gmail.com](mailto:bevinsjm@gmail.com)
